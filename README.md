@@ -4,15 +4,15 @@ Java, Spring (2017)
 
 * [jar dosyası](http://bit.ly/2oMzZ9P)
 
-**1.** _p ve q seçilen bit uzunluğunda olmak üzere, birbirinden farklı iki asal sayı hesaplanır._
+**1.** _P ve Q seçilen bit uzunluğunda olmak üzere, birbirinden farklı iki asal sayı hesaplanır._
 
-**2.** _n = p \* q hesaplanır._
+**2.** _N = P \* Q hesaplanır._
 
-**3.** _ϕ(n) = (p−1) \* (q−1) hesaplanır._
+**3.** _ϕ(N) = (P − 1) \* (Q − 1) hesaplanır._
 
-**4.** _ebob(ϕ(n), E) = 1 olacak şekilde E sayısı hesaplanır._
+**4.** _ebob(ϕ(N), E) = 1 olacak şekilde E sayısı hesaplanır._
 
-**5.** _E \* D = 1 (mod ϕ(n)) olacak şekilde D sayısı hesaplanır._
+**5.** _E \* D = 1 (mod ϕ(N)) olacak şekilde D sayısı hesaplanır._
 
 N ve E açık anahtarlarken, N ve D gizli anahtarlardır.
 
