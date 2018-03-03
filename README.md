@@ -14,11 +14,11 @@ Java, Spring (2017)
 
 **5.** _E \* D = 1 (mod ϕ(n)) olacak şekilde D sayısı hesaplanır._
 
-_N ve E açık anahtarlarken, N ve D gizli anahtarlardır._
+N ve E açık anahtarlarken, N ve D gizli anahtarlardır.
 
-_N ve E anahtarları metni şifrelerken kullanılır._
+N ve E anahtarları metni şifrelerken kullanılır.
 
-_N ve D anahtarları şifreli metni çözümlerken kullanılır._
+N ve D anahtarları şifreli metni çözümlerken kullanılır.
 
 ![](https://1.bp.blogspot.com/-nZYxp-mbqZ8/WprlKq7gsnI/AAAAAAAAAHo/Z8Q2cwZDbksZa4E_Z1Ln7bBOqtGAghQ2wCLcBGAs/s640/1.png)
 
